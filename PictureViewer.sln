@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureViewer", "PictureViewer\PictureViewer.csproj", "{3861EC29-3AE0-42C9-80A2-0F3E15D1940F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3861EC29-3AE0-42C9-80A2-0F3E15D1940F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3861EC29-3AE0-42C9-80A2-0F3E15D1940F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3861EC29-3AE0-42C9-80A2-0F3E15D1940F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3861EC29-3AE0-42C9-80A2-0F3E15D1940F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
